@@ -1,2 +1,2 @@
 # objectOrientedJava
-The exercises in the object oriented in Java
+The compilation of my actives from Object Oriented class.
